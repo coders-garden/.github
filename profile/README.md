@@ -2,6 +2,9 @@
 
 Are you a coder, developer, or programming enthusiast looking for a nurturing and vibrant community to grow your skills and cultivate your passion for coding? Look no further! Coders-Garden is your digital oasis for all things code-related.
 
+## Join the discord
+https://discord.gg/tK5CjMQV
+
 ## What We Offer
 
 - **Community Collaboration:** Join forces with fellow coders on open-source projects, share your expertise, and learn from others.
