@@ -5,7 +5,7 @@ Are you a coder, developer, or programming enthusiast looking for a nurturing an
 ## Join the discord
 https://discord.gg/tK5CjMQV
 
-## Choose your team from here
+## Choose your likings here
 https://github.com/orgs/coders-garden/discussions/1
 
 ## What We Offer
